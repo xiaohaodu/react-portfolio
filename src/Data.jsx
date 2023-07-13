@@ -23,7 +23,7 @@ import testimonial3 from "./assets/testimonial3.jpg";
 
 import { TfiHeadphoneAlt } from "react-icons/tfi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
-import { GoMailRead } from "react-icons/go";
+import { GoMail } from "react-icons/go";
 
 export const navLinks = [
   {
@@ -208,7 +208,7 @@ export const contacts = [
   },
   {
     id: 3,
-    icon: <GoMailRead />,
+    icon: <GoMail />,
     text: "jhonsmitch2002@gmail.com",
   },
 ];

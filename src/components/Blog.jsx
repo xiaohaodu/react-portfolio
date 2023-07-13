@@ -1,4 +1,3 @@
-import React from "react";
 import { blogs } from "../Data";
 const Blog = () => {
   return (
